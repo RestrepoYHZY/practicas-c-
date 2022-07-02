@@ -1,0 +1,8 @@
+C:\Users\Windows 10\Desktop\Team International\C#\primeraApp\bin\Debug\primeraApp.exe.config
+C:\Users\Windows 10\Desktop\Team International\C#\primeraApp\bin\Debug\primeraApp.exe
+C:\Users\Windows 10\Desktop\Team International\C#\primeraApp\bin\Debug\primeraApp.pdb
+C:\Users\Windows 10\Desktop\Team International\C#\primeraApp\obj\Debug\primeraApp.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Team International\C#\primeraApp\obj\Debug\primeraApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10\Desktop\Team International\C#\primeraApp\obj\Debug\primeraApp.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Team International\C#\primeraApp\obj\Debug\primeraApp.exe
+C:\Users\Windows 10\Desktop\Team International\C#\primeraApp\obj\Debug\primeraApp.pdb

@@ -1,0 +1,8 @@
+C:\Users\Windows 10\Desktop\Team International\C#\practica1\bin\Debug\practica1.exe.config
+C:\Users\Windows 10\Desktop\Team International\C#\practica1\bin\Debug\practica1.exe
+C:\Users\Windows 10\Desktop\Team International\C#\practica1\bin\Debug\practica1.pdb
+C:\Users\Windows 10\Desktop\Team International\C#\practica1\obj\Debug\practica1.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Team International\C#\practica1\obj\Debug\practica1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10\Desktop\Team International\C#\practica1\obj\Debug\practica1.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Team International\C#\practica1\obj\Debug\practica1.exe
+C:\Users\Windows 10\Desktop\Team International\C#\practica1\obj\Debug\practica1.pdb

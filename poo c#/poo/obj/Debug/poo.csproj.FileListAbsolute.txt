@@ -1,0 +1,8 @@
+C:\Users\Windows 10\Desktop\Team International\C#\poo\bin\Debug\poo.exe.config
+C:\Users\Windows 10\Desktop\Team International\C#\poo\bin\Debug\poo.exe
+C:\Users\Windows 10\Desktop\Team International\C#\poo\bin\Debug\poo.pdb
+C:\Users\Windows 10\Desktop\Team International\C#\poo\obj\Debug\poo.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Team International\C#\poo\obj\Debug\poo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10\Desktop\Team International\C#\poo\obj\Debug\poo.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Team International\C#\poo\obj\Debug\poo.exe
+C:\Users\Windows 10\Desktop\Team International\C#\poo\obj\Debug\poo.pdb
