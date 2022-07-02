@@ -11,10 +11,13 @@ namespace practica1
         static void Main(string[] args)
         {
             Avion avion1 = new Avion("James");
+            avion1.despegar();
 
             Vehiculo vehiculo1 = new Vehiculo("Juan");
+            vehiculo1.acelerar();
 
             Coche coche1 = new Coche("Pedro");
+            coche1.frenar();
 
             //Trabajar con el metodo virtual
             Transporte[] almacenarTransportes = new Transporte[3];
@@ -32,6 +35,10 @@ namespace practica1
             avion1.getConductor();
             vehiculo1.getConductor();
             coche1.getConductor();*/
+
+            
+            
+
         }
 
         class Transporte
@@ -72,6 +79,11 @@ namespace practica1
 
             }
 
+            public void despegar()
+            {
+                Console.WriteLine("Estoy despegando rumbo al cielo");
+            }
+
             public override void conducir()
             {
                 Console.WriteLine("Conduzco por los Aires");
@@ -83,6 +95,11 @@ namespace practica1
             public Vehiculo(String conductorVehiculo):base (conductorVehiculo)
             {
 
+            }
+
+            public void acelerar()
+            {
+                Console.WriteLine("Estoy acelerando mi vehiculo");
             }
 
             public override void conducir()
@@ -97,6 +114,11 @@ namespace practica1
             public Coche(String conductorCoche):base(conductorCoche)
             {
 
+            }
+
+            public void frenar()
+            {
+                Console.WriteLine("Estoy frenando mi coche");
             }
 
             public override void conducir()
