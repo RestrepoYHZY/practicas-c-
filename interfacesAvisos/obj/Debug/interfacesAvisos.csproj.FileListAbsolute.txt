@@ -1,0 +1,8 @@
+C:\Users\Windows 10\Desktop\Team International\C#\interfacesAvisos\obj\Debug\interfacesAvisos.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Team International\C#\interfacesAvisos\obj\Debug\interfacesAvisos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10\Desktop\Team International\C#\interfacesAvisos\obj\Debug\interfacesAvisos.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Team International\C#\interfacesAvisos\bin\Debug\interfacesAvisos.exe.config
+C:\Users\Windows 10\Desktop\Team International\C#\interfacesAvisos\bin\Debug\interfacesAvisos.exe
+C:\Users\Windows 10\Desktop\Team International\C#\interfacesAvisos\bin\Debug\interfacesAvisos.pdb
+C:\Users\Windows 10\Desktop\Team International\C#\interfacesAvisos\obj\Debug\interfacesAvisos.exe
+C:\Users\Windows 10\Desktop\Team International\C#\interfacesAvisos\obj\Debug\interfacesAvisos.pdb
