@@ -11,6 +11,7 @@ namespace herencia
         static void Main(string[] args)
         {
             Caballo Babieca = new Caballo("Babieca");
+            ISaltar ImiBabieca = Babieca;
 
             Humano Juan = new Humano("Juan");
 
@@ -34,8 +35,33 @@ namespace herencia
             //Babieca.getNombre();
             //Copito.getNombre();
 
+
+            Ballena miWally = new Ballena("Wally");
+
+            miWally.nadar();
+
+            Console.WriteLine("Patas utilizadas para el salto de Babieca " + ImiBabieca.numeroPatas());
         }
     }
+
+    interface IManiferosTerrestres
+    {
+        int numeroPatas();
+    }
+
+    interface IAnimalesYDeportes
+    {
+        String tipoDeporte();
+
+        Boolean esOlimpico();
+    }
+
+    interface ISaltar
+    {
+        int numeroPatas();
+    }
+
+
 
     class Mamiferos
     {
@@ -68,7 +94,20 @@ namespace herencia
 
     }
 
-    class Caballo : Mamiferos
+    class Ballena : Mamiferos
+    {
+        public Ballena(String nombreBallena) : base(nombreBallena)
+        {
+          
+        }
+
+        public void nadar()
+        {
+            Console.WriteLine("I able to swim");
+        }
+    }
+
+    class Caballo : Mamiferos, IManiferosTerrestres,IAnimalesYDeportes,ISaltar
     {
         public Caballo(String nombreCaballo) : base(nombreCaballo)
         {
@@ -79,9 +118,27 @@ namespace herencia
         {
             Console.WriteLine("Me encanta galopar");
         }
+
+        int ISaltar.numeroPatas()
+        {
+            return 2; 
+        }
+        int IManiferosTerrestres.numeroPatas()
+        {
+            return 4;
+        }
+
+        public String tipoDeporte()
+        {
+            return "Hípica";
+        }
+        public Boolean esOlimpico()
+        {
+            return true; 
+        }
     }
 
-    class Humano : Mamiferos
+    class Humano : Mamiferos, IManiferosTerrestres
     {
 
         public Humano(String nombreHuman) : base(nombreHuman)
@@ -91,6 +148,11 @@ namespace herencia
         public override void pensar()
         {
             Console.WriteLine("Soy habil pensando");
+        }
+
+        public int numeroPatas()
+        {
+            return 2; 
         }
     }
 

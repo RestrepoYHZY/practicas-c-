@@ -6,3 +6,11 @@ C:\Users\Windows 10\Desktop\Team International\C#\herencia\obj\Debug\herencia.cs
 C:\Users\Windows 10\Desktop\Team International\C#\herencia\obj\Debug\herencia.csproj.CoreCompileInputs.cache
 C:\Users\Windows 10\Desktop\Team International\C#\herencia\obj\Debug\herencia.exe
 C:\Users\Windows 10\Desktop\Team International\C#\herencia\obj\Debug\herencia.pdb
+C:\Users\Windows 10\Desktop\Team International\C#\git\herencia\obj\Debug\herencia.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\herencia\obj\Debug\herencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\herencia\obj\Debug\herencia.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\herencia\obj\Debug\herencia.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\herencia\obj\Debug\herencia.pdb
+C:\Users\Windows 10\Desktop\Team International\C#\git\herencia\bin\Debug\herencia.exe.config
+C:\Users\Windows 10\Desktop\Team International\C#\git\herencia\bin\Debug\herencia.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\herencia\bin\Debug\herencia.pdb
