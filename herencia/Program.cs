@@ -10,37 +10,48 @@ namespace herencia
     {
         static void Main(string[] args)
         {
-            Caballo Babieca = new Caballo("Babieca");
-            ISaltar ImiBabieca = Babieca;
+            //Caballo Babieca = new Caballo("Babieca");
+            //ISaltar ImiBabieca = Babieca;
+
+            //Humano Juan = new Humano("Juan");
+
+            //Gorila Copito = new Gorila("Copito");
+
+            //Mamiferos[] almacenAnimales = new Mamiferos[3];
+
+            //almacenAnimales[0] = Babieca;
+
+            //almacenAnimales[1] = Juan;
+
+            //almacenAnimales[2] = Copito;
+
+            //for (int i = 0; i < 3; i++)
+            //{
+            //    almacenAnimales[i].pensar();
+
+            //}
+
+            ////Juan.getNombre();
+            ////Babieca.getNombre();
+            ////Copito.getNombre();
+
+
+            //Ballena miWally = new Ballena("Wally");
+
+            //miWally.nadar();
+
+            //Console.WriteLine("Patas utilizadas para el salto de Babieca " + ImiBabieca.numeroPatas());
+
+
+            Lagartija Juanita = new Lagartija("Juanita");
+            Juanita.respirar();
+            Juanita.getNombre();
+
+            Console.WriteLine();
 
             Humano Juan = new Humano("Juan");
-
-            Gorila Copito = new Gorila("Copito");
-
-            Mamiferos[] almacenAnimales = new Mamiferos[3];
-
-            almacenAnimales[0] = Babieca;
-
-            almacenAnimales[1] = Juan;
-
-            almacenAnimales[2] = Copito;
-
-            for (int i = 0; i < 3; i++)
-            {
-                almacenAnimales[i].pensar();
-
-            }
-
-            //Juan.getNombre();
-            //Babieca.getNombre();
-            //Copito.getNombre();
-
-
-            Ballena miWally = new Ballena("Wally");
-
-            miWally.nadar();
-
-            Console.WriteLine("Patas utilizadas para el salto de Babieca " + ImiBabieca.numeroPatas());
+            Juan.respirar();
+            Juan.getNombre();
         }
     }
 
@@ -62,17 +73,38 @@ namespace herencia
     }
 
 
+    abstract class Animales
+    {
+       public void respirar()
+        {
+           Console.WriteLine("Soy capaz de respirar");
+        }
 
-    class Mamiferos
+        public abstract void getNombre();
+
+    }
+
+    class Lagartija : Animales
+    {
+        public Lagartija(String nombre)
+        {
+            nombreReptil = nombre; 
+        }
+
+        public override void getNombre()
+        {
+            Console.WriteLine("El nombre de la lagartija es: " + nombreReptil);
+        }
+    
+        private String nombreReptil;
+    }
+
+
+    class Mamiferos:Animales
     {
         public Mamiferos(String nombre)
         {
             nombreSerVivo = nombre;
-        }
-
-        public void respirar()
-        {
-            Console.WriteLine("Soy capaz de caminar");
         }
 
         public virtual void pensar()
@@ -85,9 +117,9 @@ namespace herencia
             Console.WriteLine("Cuido de mis crias");
         }
 
-        public void getNombre()
+        public override void getNombre()
         {
-            Console.WriteLine("El nombre del ser vivo es: "+nombreSerVivo);
+            Console.WriteLine("El nombre del mamifero es: "+nombreSerVivo);
         }
 
         private String nombreSerVivo;
@@ -145,7 +177,7 @@ namespace herencia
         {
 
         }
-        public override void pensar()
+        public  override void pensar()
         {
             Console.WriteLine("Soy habil pensando");
         }
@@ -154,6 +186,7 @@ namespace herencia
         {
             return 2; 
         }
+
     }
 
     class Gorila : Mamiferos
@@ -171,4 +204,5 @@ namespace herencia
             Console.WriteLine("Trepo por mis bananas");
         }
     }
+
 }

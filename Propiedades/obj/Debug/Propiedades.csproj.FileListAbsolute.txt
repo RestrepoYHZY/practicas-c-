@@ -1,0 +1,8 @@
+C:\Users\Windows 10\Desktop\Team International\C#\git\Propiedades\bin\Debug\Propiedades.exe.config
+C:\Users\Windows 10\Desktop\Team International\C#\git\Propiedades\bin\Debug\Propiedades.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\Propiedades\bin\Debug\Propiedades.pdb
+C:\Users\Windows 10\Desktop\Team International\C#\git\Propiedades\obj\Debug\Propiedades.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Propiedades\obj\Debug\Propiedades.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Propiedades\obj\Debug\Propiedades.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Propiedades\obj\Debug\Propiedades.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\Propiedades\obj\Debug\Propiedades.pdb
