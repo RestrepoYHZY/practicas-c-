@@ -1,0 +1,8 @@
+C:\Users\Windows 10\Desktop\Team International\C#\git\ColeccionesLinkedlist\bin\Debug\ColeccionesLinkedlist.exe.config
+C:\Users\Windows 10\Desktop\Team International\C#\git\ColeccionesLinkedlist\bin\Debug\ColeccionesLinkedlist.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\ColeccionesLinkedlist\bin\Debug\ColeccionesLinkedlist.pdb
+C:\Users\Windows 10\Desktop\Team International\C#\git\ColeccionesLinkedlist\obj\Debug\ColeccionesLinkedlist.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\ColeccionesLinkedlist\obj\Debug\ColeccionesLinkedlist.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\ColeccionesLinkedlist\obj\Debug\ColeccionesLinkedlist.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\ColeccionesLinkedlist\obj\Debug\ColeccionesLinkedlist.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\ColeccionesLinkedlist\obj\Debug\ColeccionesLinkedlist.pdb
