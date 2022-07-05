@@ -1,0 +1,8 @@
+C:\Users\Windows 10\Desktop\Team International\C#\git\Genericos1\bin\Debug\Genericos1.exe.config
+C:\Users\Windows 10\Desktop\Team International\C#\git\Genericos1\bin\Debug\Genericos1.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\Genericos1\bin\Debug\Genericos1.pdb
+C:\Users\Windows 10\Desktop\Team International\C#\git\Genericos1\obj\Debug\Genericos1.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Genericos1\obj\Debug\Genericos1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Genericos1\obj\Debug\Genericos1.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Genericos1\obj\Debug\Genericos1.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\Genericos1\obj\Debug\Genericos1.pdb
