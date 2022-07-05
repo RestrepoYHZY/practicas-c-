@@ -1,0 +1,8 @@
+C:\Users\Windows 10\Desktop\Team International\C#\git\coleccionQueue\bin\Debug\coleccionQueue.exe.config
+C:\Users\Windows 10\Desktop\Team International\C#\git\coleccionQueue\bin\Debug\coleccionQueue.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\coleccionQueue\bin\Debug\coleccionQueue.pdb
+C:\Users\Windows 10\Desktop\Team International\C#\git\coleccionQueue\obj\Debug\coleccionQueue.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\coleccionQueue\obj\Debug\coleccionQueue.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\coleccionQueue\obj\Debug\coleccionQueue.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\coleccionQueue\obj\Debug\coleccionQueue.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\coleccionQueue\obj\Debug\coleccionQueue.pdb
