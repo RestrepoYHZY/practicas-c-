@@ -1,0 +1,8 @@
+C:\Users\Windows 10\Desktop\Team International\C#\git\Colecciones\bin\Debug\Colecciones.exe.config
+C:\Users\Windows 10\Desktop\Team International\C#\git\Colecciones\bin\Debug\Colecciones.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\Colecciones\bin\Debug\Colecciones.pdb
+C:\Users\Windows 10\Desktop\Team International\C#\git\Colecciones\obj\Debug\Colecciones.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Colecciones\obj\Debug\Colecciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Colecciones\obj\Debug\Colecciones.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Colecciones\obj\Debug\Colecciones.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\Colecciones\obj\Debug\Colecciones.pdb
