@@ -1,0 +1,8 @@
+C:\Users\Windows 10\Desktop\Team International\C#\git\ColeccionDictionary\bin\Debug\ColeccionDictionary.exe.config
+C:\Users\Windows 10\Desktop\Team International\C#\git\ColeccionDictionary\bin\Debug\ColeccionDictionary.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\ColeccionDictionary\bin\Debug\ColeccionDictionary.pdb
+C:\Users\Windows 10\Desktop\Team International\C#\git\ColeccionDictionary\obj\Debug\ColeccionDictionary.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\ColeccionDictionary\obj\Debug\ColeccionDictionary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\ColeccionDictionary\obj\Debug\ColeccionDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\ColeccionDictionary\obj\Debug\ColeccionDictionary.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\ColeccionDictionary\obj\Debug\ColeccionDictionary.pdb
