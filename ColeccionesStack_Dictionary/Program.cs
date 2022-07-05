@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ColeccionesStack_Dictionary
+namespace ColeccionesStack
 {
     internal class Program
     {
@@ -12,27 +12,27 @@ namespace ColeccionesStack_Dictionary
         {
             Stack <int> numeros = new Stack <int>();
 
-            //Agregando elementos en la cola 
+            //Agregando el stack
 
             foreach (int numero in new int[5] { 1, 2, 3, 4, 5 })
             {
-                numeros.Enqueue(numero);
+                numeros.Push(numero);
             }
 
-            //Recorriendo la cola
+            //Recorriendo el stack
 
-            Console.WriteLine("Recorriendo el QUEUE");
+            Console.WriteLine("Recorriendo el Stack");
 
             foreach (int numero in numeros)
             {
                 Console.WriteLine(numero);
             }
 
-            //Eliminando elementos del queue
+            //Eliminando elementos del stack
             Console.WriteLine();
             Console.WriteLine("Eliminado elementos");
 
-            numeros.Dequeue();
+            numeros.Pop();
 
             foreach (int numero in numeros)
             {
