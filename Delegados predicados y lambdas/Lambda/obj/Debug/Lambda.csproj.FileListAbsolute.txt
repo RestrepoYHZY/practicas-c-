@@ -1,0 +1,8 @@
+C:\Users\Windows 10\Desktop\Team International\C#\git\Delegados predicados y lambdas\Lambda\bin\Debug\Lambda.exe.config
+C:\Users\Windows 10\Desktop\Team International\C#\git\Delegados predicados y lambdas\Lambda\bin\Debug\Lambda.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\Delegados predicados y lambdas\Lambda\bin\Debug\Lambda.pdb
+C:\Users\Windows 10\Desktop\Team International\C#\git\Delegados predicados y lambdas\Lambda\obj\Debug\Lambda.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Delegados predicados y lambdas\Lambda\obj\Debug\Lambda.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Delegados predicados y lambdas\Lambda\obj\Debug\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Delegados predicados y lambdas\Lambda\obj\Debug\Lambda.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\Delegados predicados y lambdas\Lambda\obj\Debug\Lambda.pdb

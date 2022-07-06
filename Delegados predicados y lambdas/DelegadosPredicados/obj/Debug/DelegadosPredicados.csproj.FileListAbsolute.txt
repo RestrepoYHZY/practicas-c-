@@ -1,0 +1,8 @@
+C:\Users\Windows 10\Desktop\Team International\C#\git\Delegados predicados y lambdas\DelegadosPredicados\bin\Debug\DelegadosPredicados.exe.config
+C:\Users\Windows 10\Desktop\Team International\C#\git\Delegados predicados y lambdas\DelegadosPredicados\bin\Debug\DelegadosPredicados.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\Delegados predicados y lambdas\DelegadosPredicados\bin\Debug\DelegadosPredicados.pdb
+C:\Users\Windows 10\Desktop\Team International\C#\git\Delegados predicados y lambdas\DelegadosPredicados\obj\Debug\DelegadosPredicados.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Delegados predicados y lambdas\DelegadosPredicados\obj\Debug\DelegadosPredicados.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Delegados predicados y lambdas\DelegadosPredicados\obj\Debug\DelegadosPredicados.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Delegados predicados y lambdas\DelegadosPredicados\obj\Debug\DelegadosPredicados.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\Delegados predicados y lambdas\DelegadosPredicados\obj\Debug\DelegadosPredicados.pdb
