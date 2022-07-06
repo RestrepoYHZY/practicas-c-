@@ -1,0 +1,8 @@
+C:\Users\Windows 10\Desktop\Team International\C#\git\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\ExpresionesRegulares\bin\Debug\ExpresionesRegulares.exe.config
+C:\Users\Windows 10\Desktop\Team International\C#\git\ExpresionesRegulares\bin\Debug\ExpresionesRegulares.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\ExpresionesRegulares\bin\Debug\ExpresionesRegulares.pdb
+C:\Users\Windows 10\Desktop\Team International\C#\git\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.pdb
