@@ -1,0 +1,16 @@
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\checkBox_comboBox\bin\Debug\checkBox_comboBox.exe.config
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\checkBox_comboBox\bin\Debug\checkBox_comboBox.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\checkBox_comboBox\bin\Debug\checkBox_comboBox.pdb
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\checkBox_comboBox\obj\Debug\checkBox_comboBox.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\checkBox_comboBox\obj\Debug\checkBox_comboBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\checkBox_comboBox\obj\Debug\MainWindow.g.cs
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\checkBox_comboBox\obj\Debug\App.g.cs
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\checkBox_comboBox\obj\Debug\checkBox_comboBox_MarkupCompile.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\checkBox_comboBox\obj\Debug\checkBox_comboBox_MarkupCompile.lref
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\checkBox_comboBox\obj\Debug\MainWindow.baml
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\checkBox_comboBox\obj\Debug\checkBox_comboBox.g.resources
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\checkBox_comboBox\obj\Debug\checkBox_comboBox.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\checkBox_comboBox\obj\Debug\checkBox_comboBox.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\checkBox_comboBox\obj\Debug\checkBox_comboBox.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\checkBox_comboBox\obj\Debug\checkBox_comboBox.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\checkBox_comboBox\obj\Debug\checkBox_comboBox.pdb

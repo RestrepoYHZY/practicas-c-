@@ -1,0 +1,16 @@
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\DependencyPreperties\bin\Debug\DependencyPreperties.exe.config
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\DependencyPreperties\bin\Debug\DependencyPreperties.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\DependencyPreperties\bin\Debug\DependencyPreperties.pdb
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\DependencyPreperties\obj\Debug\DependencyPreperties.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\DependencyPreperties\obj\Debug\DependencyPreperties.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\DependencyPreperties\obj\Debug\MainWindow.g.cs
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\DependencyPreperties\obj\Debug\App.g.cs
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\DependencyPreperties\obj\Debug\DependencyPreperties_MarkupCompile.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\DependencyPreperties\obj\Debug\DependencyPreperties_MarkupCompile.lref
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\DependencyPreperties\obj\Debug\MainWindow.baml
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\DependencyPreperties\obj\Debug\DependencyPreperties.g.resources
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\DependencyPreperties\obj\Debug\DependencyPreperties.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\DependencyPreperties\obj\Debug\DependencyPreperties.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\DependencyPreperties\obj\Debug\DependencyPreperties.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\DependencyPreperties\obj\Debug\DependencyPreperties.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\DependencyPreperties\obj\Debug\DependencyPreperties.pdb

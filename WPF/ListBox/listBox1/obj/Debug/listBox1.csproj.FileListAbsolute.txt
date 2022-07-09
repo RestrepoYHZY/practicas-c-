@@ -1,0 +1,16 @@
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\ListBox\listBox1\bin\Debug\listBox1.exe.config
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\ListBox\listBox1\bin\Debug\listBox1.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\ListBox\listBox1\bin\Debug\listBox1.pdb
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\ListBox\listBox1\obj\Debug\listBox1.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\ListBox\listBox1\obj\Debug\listBox1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\ListBox\listBox1\obj\Debug\MainWindow.g.cs
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\ListBox\listBox1\obj\Debug\App.g.cs
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\ListBox\listBox1\obj\Debug\listBox1_MarkupCompile.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\ListBox\listBox1\obj\Debug\listBox1_MarkupCompile.lref
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\ListBox\listBox1\obj\Debug\MainWindow.baml
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\ListBox\listBox1\obj\Debug\listBox1.g.resources
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\ListBox\listBox1\obj\Debug\listBox1.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\ListBox\listBox1\obj\Debug\listBox1.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\ListBox\listBox1\obj\Debug\listBox1.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\ListBox\listBox1\obj\Debug\listBox1.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\ListBox\listBox1\obj\Debug\listBox1.pdb

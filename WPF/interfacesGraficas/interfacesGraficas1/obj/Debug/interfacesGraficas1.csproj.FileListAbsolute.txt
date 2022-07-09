@@ -1,0 +1,16 @@
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\interfacesGraficas\interfacesGraficas1\bin\Debug\interfacesGraficas1.exe.config
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\interfacesGraficas\interfacesGraficas1\bin\Debug\interfacesGraficas1.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\interfacesGraficas\interfacesGraficas1\bin\Debug\interfacesGraficas1.pdb
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\interfacesGraficas\interfacesGraficas1\obj\Debug\interfacesGraficas1.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\interfacesGraficas\interfacesGraficas1\obj\Debug\interfacesGraficas1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\interfacesGraficas\interfacesGraficas1\obj\Debug\MainWindow.g.cs
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\interfacesGraficas\interfacesGraficas1\obj\Debug\App.g.cs
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\interfacesGraficas\interfacesGraficas1\obj\Debug\interfacesGraficas1_MarkupCompile.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\interfacesGraficas\interfacesGraficas1\obj\Debug\interfacesGraficas1_MarkupCompile.lref
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\interfacesGraficas\interfacesGraficas1\obj\Debug\MainWindow.baml
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\interfacesGraficas\interfacesGraficas1\obj\Debug\interfacesGraficas1.g.resources
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\interfacesGraficas\interfacesGraficas1\obj\Debug\interfacesGraficas1.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\interfacesGraficas\interfacesGraficas1\obj\Debug\interfacesGraficas1.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\interfacesGraficas\interfacesGraficas1\obj\Debug\interfacesGraficas1.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\interfacesGraficas\interfacesGraficas1\obj\Debug\interfacesGraficas1.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\WPF\interfacesGraficas\interfacesGraficas1\obj\Debug\interfacesGraficas1.pdb
