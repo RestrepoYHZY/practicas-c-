@@ -1,0 +1,8 @@
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads\Threads2Calculadora\bin\Debug\Threads2Calculadora.exe.config
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads\Threads2Calculadora\bin\Debug\Threads2Calculadora.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads\Threads2Calculadora\bin\Debug\Threads2Calculadora.pdb
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads\Threads2Calculadora\obj\Debug\Threads2Calculadora.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads\Threads2Calculadora\obj\Debug\Threads2Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads\Threads2Calculadora\obj\Debug\Threads2Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads\Threads2Calculadora\obj\Debug\Threads2Calculadora.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads\Threads2Calculadora\obj\Debug\Threads2Calculadora.pdb

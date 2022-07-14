@@ -1,0 +1,8 @@
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads\Thread3TaskComSo\bin\Debug\Thread3TaskComSo.exe.config
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads\Thread3TaskComSo\bin\Debug\Thread3TaskComSo.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads\Thread3TaskComSo\bin\Debug\Thread3TaskComSo.pdb
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads\Thread3TaskComSo\obj\Debug\Thread3TaskComSo.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads\Thread3TaskComSo\obj\Debug\Thread3TaskComSo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads\Thread3TaskComSo\obj\Debug\Thread3TaskComSo.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads\Thread3TaskComSo\obj\Debug\Thread3TaskComSo.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads\Thread3TaskComSo\obj\Debug\Thread3TaskComSo.pdb

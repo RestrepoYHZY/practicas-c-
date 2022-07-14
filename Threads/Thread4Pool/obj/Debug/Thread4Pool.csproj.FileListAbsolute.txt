@@ -1,0 +1,8 @@
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads\Thread4Pool\bin\Debug\Thread4Pool.exe.config
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads\Thread4Pool\bin\Debug\Thread4Pool.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads\Thread4Pool\bin\Debug\Thread4Pool.pdb
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads\Thread4Pool\obj\Debug\Thread4Pool.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads\Thread4Pool\obj\Debug\Thread4Pool.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads\Thread4Pool\obj\Debug\Thread4Pool.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads\Thread4Pool\obj\Debug\Thread4Pool.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads\Thread4Pool\obj\Debug\Thread4Pool.pdb

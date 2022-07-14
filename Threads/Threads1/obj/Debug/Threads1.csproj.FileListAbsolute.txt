@@ -1,0 +1,8 @@
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads1\bin\Debug\Threads1.exe.config
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads1\bin\Debug\Threads1.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads1\bin\Debug\Threads1.pdb
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads1\obj\Debug\Threads1.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads1\obj\Debug\Threads1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads1\obj\Debug\Threads1.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads1\obj\Debug\Threads1.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\Threads1\obj\Debug\Threads1.pdb
