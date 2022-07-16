@@ -1,0 +1,8 @@
+C:\Users\Windows 10\Desktop\Team International\C#\git\Task\cancelacionTask\obj\Debug\cancelacionTask.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Task\cancelacionTask\obj\Debug\cancelacionTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Task\cancelacionTask\obj\Debug\cancelacionTask.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Team International\C#\git\Task\cancelacionTask\bin\Debug\cancelacionTask.exe.config
+C:\Users\Windows 10\Desktop\Team International\C#\git\Task\cancelacionTask\bin\Debug\cancelacionTask.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\Task\cancelacionTask\bin\Debug\cancelacionTask.pdb
+C:\Users\Windows 10\Desktop\Team International\C#\git\Task\cancelacionTask\obj\Debug\cancelacionTask.exe
+C:\Users\Windows 10\Desktop\Team International\C#\git\Task\cancelacionTask\obj\Debug\cancelacionTask.pdb
