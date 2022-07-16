@@ -1,0 +1,40 @@
+﻿<Window x:Class="calculadora.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:calculadora"
+        mc:Ignorable="d"
+        Title="Calculadora" Height="618" Width="395">
+    <Grid HorizontalAlignment="Center" Width="399">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="33*"/>
+            <ColumnDefinition Width="13*"/>
+            <ColumnDefinition Width="353*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="cajaResultado" HorizontalAlignment="Left" Margin="10,99,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="290" Height="45" FontSize="36" FontFamily="Arial Black" FontWeight="Bold" RenderTransformOrigin="0.412,0.519" Background="#FFDDDDDD" BorderBrush="#FFA6A6A8" Foreground="#FF0B0B0B" TextAlignment="Right" Grid.Column="2" Text="0" IsReadOnly="True"/>
+
+        <Button x:Name="btnDivision" Content="/" HorizontalAlignment="Left" Height="60" Margin="88,166,0,0" VerticalAlignment="Top" Width="60" BorderBrush="#FFA09D9D" Foreground="Black" FontFamily="Arial" FontSize="30" FontWeight="Bold" Grid.Column="2" Click="btnDivision_Click"/>
+        <Button x:Name="btnBorrar" Content="&lt;" HorizontalAlignment="Left" Height="60" Margin="238,166,0,0" VerticalAlignment="Top" Width="60" BorderBrush="#FFA09D9D" Foreground="Black" FontFamily="Arial" FontSize="30" FontWeight="Bold" Grid.Column="2" Click="btnBorrar_Click"/>
+        <Button x:Name="btnIgual" Content="=" HorizontalAlignment="Left" Height="60" Margin="238,453,0,0" VerticalAlignment="Top" Width="60" BorderBrush="#FFA09D9D" Foreground="Black" FontFamily="Arial" FontSize="30" FontWeight="Bold" Grid.Column="2" Click="btnIgual_Click"/>
+        <Button x:Name="btnMod" Content="%" HorizontalAlignment="Left" Height="60" Margin="11,166,0,0" VerticalAlignment="Top" Width="60" BorderBrush="#FFA09D9D" Foreground="Black" FontFamily="Arial" FontSize="30" FontWeight="Bold" Grid.Column="2" Click="btnMod_Click"/>
+        <Button x:Name="btnReset" Content="C" HorizontalAlignment="Left" Height="60" Margin="163,166,0,0" VerticalAlignment="Top" Width="62" BorderBrush="#FFA09D9D" Foreground="Black" FontFamily="Arial" FontSize="30" FontWeight="Bold" Grid.Column="2" Click="btnReset_Click"/>
+        <Button x:Name="btnPunto" Content="." HorizontalAlignment="Left" Height="60" Margin="161,453,0,0" VerticalAlignment="Top" Width="62" BorderBrush="#FFA09D9D" Foreground="Black" FontFamily="Arial" FontSize="30" FontWeight="Bold" Grid.Column="2" Click="btnPunto_Click"/>
+        <Button x:Name="btnCero" Content="0" HorizontalAlignment="Left" Height="60" Margin="12,454,0,0" VerticalAlignment="Top" Width="136" BorderBrush="#FFA09D9D" Foreground="Black" FontFamily="Arial" FontSize="30" FontWeight="Bold" Grid.Column="2" Click="btnCero_Click" />
+        <Button x:Name="btnOcho" Content="8" HorizontalAlignment="Left" Height="60" Margin="88,237,0,0" VerticalAlignment="Top" Width="60" BorderBrush="#FFA09D9D" Foreground="Black" FontFamily="Arial" FontSize="30" FontWeight="Bold" Grid.Column="2" Click="btnOcho_Click"/>
+        <Button x:Name="btnMult" Content="x" HorizontalAlignment="Left" Height="60" Margin="238,237,0,0" VerticalAlignment="Top" Width="60" BorderBrush="#FFA09D9D" Foreground="Black" FontFamily="Arial" FontSize="30" FontWeight="Bold" Grid.Column="2" Click="btnMult_Click"/>
+        <Button x:Name="btnSiete" Content="7" HorizontalAlignment="Left" Height="60" Margin="11,237,0,0" VerticalAlignment="Top" Width="60" BorderBrush="#FFA09D9D" Foreground="Black" FontFamily="Arial" FontSize="30" FontWeight="Bold" Grid.Column="2" Click="btnSiete_Click"/>
+        <Button x:Name="btnNueve" Content="9" HorizontalAlignment="Left" Height="60" Margin="163,237,0,0" VerticalAlignment="Top" Width="62" BorderBrush="#FFA09D9D" Foreground="Black" FontFamily="Arial" FontSize="30" FontWeight="Bold" Grid.Column="2" Click="btnNueve_Click"/>
+        <Button x:Name="btnCinco" Content="5" HorizontalAlignment="Left" Height="60" Margin="88,309,0,0" VerticalAlignment="Top" Width="60" BorderBrush="#FFA09D9D" Foreground="Black" FontFamily="Arial" FontSize="30" FontWeight="Bold" Grid.Column="2" Click="btnCinco_Click"/>
+        <Button x:Name="btnSuma" Content="+" HorizontalAlignment="Left" Height="60" Margin="238,309,0,0" VerticalAlignment="Top" Width="60" BorderBrush="#FFA09D9D" Foreground="Black" FontFamily="Arial" FontSize="30" FontWeight="Bold" Grid.Column="2" Click="btnSuma_Click"/>
+        <Button x:Name="btnCuatro" Content="4" HorizontalAlignment="Left" Height="60" Margin="11,309,0,0" VerticalAlignment="Top" Width="60" BorderBrush="#FFA09D9D" Foreground="Black" FontFamily="Arial" FontSize="30" FontWeight="Bold" Grid.Column="2" Click="btnCuatro_Click"/>
+        <Button x:Name="btnSeis" Content="6" HorizontalAlignment="Left" Height="60" Margin="163,309,0,0" VerticalAlignment="Top" Width="62" BorderBrush="#FFA09D9D" Foreground="Black" FontFamily="Arial" FontSize="30" FontWeight="Bold" Grid.Column="2" Click="btnSeis_Click"/>
+        <Button x:Name="btnDos" Content="2" HorizontalAlignment="Left" Height="60" Margin="88,380,0,0" VerticalAlignment="Top" Width="60" BorderBrush="#FFA09D9D" Foreground="Black" FontFamily="Arial" FontSize="30" FontWeight="Bold" Grid.Column="2" Click="btnDos_Click"/>
+        <Button x:Name="btnResta" Content="-" HorizontalAlignment="Left" Height="60" Margin="238,380,0,0" VerticalAlignment="Top" Width="60" BorderBrush="#FFA09D9D" Foreground="Black" FontFamily="Arial" FontSize="30" FontWeight="Bold" Grid.Column="2" Click="btnResta_Click"/>
+        <Button x:Name="btnUno" Content="1" HorizontalAlignment="Left" Height="60" Margin="11,380,0,0" VerticalAlignment="Top" Width="60" BorderBrush="#FFA09D9D" Foreground="Black" FontFamily="Arial" FontSize="30" FontWeight="Bold" Grid.Column="2" Click="btnUno_Click"/>
+        <Button x:Name="btnTres" Content="3" HorizontalAlignment="Left" Height="60" Margin="163,380,0,0" VerticalAlignment="Top" Width="62" BorderBrush="#FFA09D9D" Foreground="Black" FontFamily="Arial" FontSize="30" FontWeight="Bold" Grid.Column="2" Click="btnTres_Click"/>
+        <TextBox x:Name="lblHistorial" Grid.Column="2" HorizontalAlignment="Left" Margin="10,53,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="288" Height="38" BorderBrush="White" FontFamily="Arial" FontSize="16"/>
+
+
+    </Grid>
+</Window>
